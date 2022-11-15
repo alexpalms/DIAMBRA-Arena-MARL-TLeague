@@ -1,2 +1,2 @@
-# MARL_TLeague_Framework
+# TLeague Framework
 Multi Agent Reinforcement Learning - TLeague Framework

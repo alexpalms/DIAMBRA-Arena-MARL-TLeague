@@ -1,0 +1,9 @@
+[submodule "TLeague"]
+	path = TLeague
+	url = git@github.com:alexpalms/TLeague.git
+[submodule "TPolicies"]
+	path = TPolicies
+	url = git@github.com:alexpalms/TPolicies.git
+[submodule "TArena"]
+	path = TArena
+	url = git@github.com:alexpalms/TArena.git
