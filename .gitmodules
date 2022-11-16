@@ -7,3 +7,6 @@
 [submodule "TArena"]
 	path = TArena
 	url = git@github.com:alexpalms/TArena.git
+[submodule "TGym"]
+	path = TGym
+	url = git@github.com:alexpalms/TGym.git
