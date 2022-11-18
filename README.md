@@ -2,6 +2,8 @@
 
 Multi Agent Reinforcement Learning for DIAMBRA Arena environments using TLeague framework
 
+<img src="https://github.com/alexpalms/DIAMBRA-Arena-MARL-TLeague/blob/main/img/marl.gif?raw=true" alt="marlGif" width="100%"/>
+
 ## How to setup the environment
 
 ### Prerequisites
@@ -73,8 +75,6 @@ experimentation. For doing so, some prerequisites are required, in particular:
     `diambra run bash example_diambra_arena_sp_ppo.sh actor`
 
 **Note that the Learners and the Actor(s), are launched using DIAMBRA Command Line Interface, that takes care of launching the docker container where the environment image is executed.**
-
-<img src="https://github.com/alexpalms/DIAMBRA-Arena-MARL-TLeague/blob/main/img/marl.gif?raw=true" alt="marlGif" width="100%"/>
 
 ## Relevant customizations
 
