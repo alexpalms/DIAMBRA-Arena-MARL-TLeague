@@ -74,6 +74,8 @@ experimentation. For doing so, some prerequisites are required, in particular:
 
 **Note that the Learners and the Actor(s), are launched using DIAMBRA Command Line Interface, that takes care of launching the docker container where the environment image is executed.**
 
+<img src="https://github.com/alexpalms/DIAMBRA-Arena-MARL-TLeague/blob/main/img/marl.gif?raw=true" alt="marlGif" width="100%"/>
+
 ## Relevant customizations
 
 - The following changes have been made to TLeague repository:
