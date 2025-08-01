@@ -1,6 +1,8 @@
 # DIAMBRA Arena MARL | TLeague
 
-Multi Agent Reinforcement Learning for DIAMBRA Arena environments using TLeague framework
+Multi Agent Reinforcement Learning for DIAMBRA Arena environments using a customization of Tencent's TLeague framework. Enables population-based adversarial training in multi-agent environments using league-style training loops and dynamic opponent selection.
+
+Main Reference Paper: [TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2011.12895)
 
 <img src="https://github.com/alexpalms/DIAMBRA-Arena-MARL-TLeague/blob/main/img/marl.gif?raw=true" alt="marlGif" width="100%"/>
 
